@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcloudera%2Fhbase.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcloudera%2Fhbase?ref=badge_shield)
+
 Apache HBase [1] is an open-source, distributed, versioned, column-oriented
 store modeled after Google' Bigtable: A Distributed Storage System for
 Structured Data by Chang et al.[2]  Just as Bigtable leverages the distributed
@@ -28,3 +30,7 @@ The HBase mailing lists and archives are listed here [8].
 6. http://hbase.apache.org/docs/current/issue-tracking.html
 7. http://hbase.apache.org/docs/current/license.html
 8. http://hbase.apache.org/docs/current/mail-lists.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcloudera%2Fhbase.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcloudera%2Fhbase?ref=badge_large)
